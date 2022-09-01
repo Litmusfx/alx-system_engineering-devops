@@ -1,0 +1,2 @@
+#!/bin/bash
+vhmod ugo+x hello
